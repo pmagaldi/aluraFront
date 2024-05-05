@@ -1,0 +1,36 @@
+body{
+    background-color: #f0f0f0;
+    color: black;
+}
+
+h1{
+    color: #333333;
+}
+
+header{
+    background-color: lightblue;
+    color: white;
+}
+
+button{
+    background-color: darkgreen;
+    color: white;
+}
+
+p{
+    color: darkgray;
+}
+
+footer{
+    background-color: gray;
+    color: white;
+}
+
+a{
+    color: dodgerblue;
+}
+
+img{
+    width: 230px;
+    height: 230px;
+}
