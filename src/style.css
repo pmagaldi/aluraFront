@@ -1,33 +1,22 @@
 body{
-    background-color: #f0f0f0;
-    color: black;
-}
-
-h1{
-    color: #333333;
-}
-
-header{
-    background-color: lightblue;
+    background-color: #000000;
     color: white;
 }
 
 button{
-    background-color: darkgreen;
-    color: white;
+    background-color: #41d5f0;
 }
 
 p{
-    color: darkgray;
-}
-
-footer{
-    background-color: gray;
-    color: white;
+    color: #f6f6f6;
 }
 
 a{
-    color: dodgerblue;
+    color: #8c41f0;
+}
+
+h1 strong{
+    color: #22d4fd;
 }
 
 img{
